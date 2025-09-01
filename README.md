@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Contenido del README.md para Health Analytics
-
 # Health Analytics
 
 Este repositorio contiene un notebook desarrollado como parte de un proyecto académico en la **Universidad del Pacífico**, orientado a la predicción de *stroke* (accidente cerebrovascular) a partir de datos clínicos y demográficos.
